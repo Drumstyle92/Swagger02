@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"it.develhope.Swagger02"},{"l":"it.develhope.Swagger02.configurations"},{"l":"it.develhope.Swagger02.controllers"},{"l":"it.develhope.Swagger02.entities"}];updateSearchResults();
